@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21" started-at="2021-03-01T23:24:40Z" finished-at="2021-03-01T23:24:40Z">
+  <suite name="Default suite" duration-ms="19" started-at="2021-03-01T23:48:37Z" finished-at="2021-03-01T23:48:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21" started-at="2021-03-01T23:24:40Z" finished-at="2021-03-01T23:24:40Z">
-      <class name="TestngTst.TestDemo.FirstTest">
-        <test-method status="PASS" signature="Hello1()[pri:0, instance:TestngTst.TestDemo.FirstTest@3aa9e816]" name="Hello1" duration-ms="9" started-at="2021-03-01T23:24:40Z" finished-at="2021-03-01T23:24:40Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Hello1 -->
-      </class> <!-- TestngTst.TestDemo.FirstTest -->
+    <test name="Default test" duration-ms="19" started-at="2021-03-01T23:48:37Z" finished-at="2021-03-01T23:48:37Z">
       <class name="TestngTst.TestDemo.ThirdTest">
-        <test-method status="PASS" signature="third()[pri:0, instance:TestngTst.TestDemo.ThirdTest@1888ff2c]" name="third" duration-ms="0" started-at="2021-03-01T23:24:40Z" finished-at="2021-03-01T23:24:40Z">
+        <test-method status="PASS" signature="third()[pri:0, instance:TestngTst.TestDemo.ThirdTest@47fd17e3]" name="third" duration-ms="9" started-at="2021-03-01T23:48:37Z" finished-at="2021-03-01T23:48:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- third -->
       </class> <!-- TestngTst.TestDemo.ThirdTest -->
-      <class name="TestngTst.TestDemo.SecondTest">
-        <test-method status="PASS" signature="Daytwo()[pri:0, instance:TestngTst.TestDemo.SecondTest@6e3c1e69]" name="Daytwo" duration-ms="1" started-at="2021-03-01T23:24:40Z" finished-at="2021-03-01T23:24:40Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Daytwo -->
-      </class> <!-- TestngTst.TestDemo.SecondTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
